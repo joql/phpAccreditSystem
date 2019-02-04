@@ -1,0 +1,8 @@
+ 授权管理平台 
+用户 admin 密码 admin888  安全码 123456
+
+数据库配置目录
+data/config.php
+
+后台地址
+http://localhost/admin.php
